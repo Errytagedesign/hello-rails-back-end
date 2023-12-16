@@ -47,7 +47,7 @@
 
 ## 🚀 Frontend Link <a name="live-demo"></a>
 
-- [Frontend Link](https://github.com/Errytagedesign/hello-react-front-end)
+- [Frontend Link](https://github.com/Errytagedesign/hello-react-front-end/tree/helloRails)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
